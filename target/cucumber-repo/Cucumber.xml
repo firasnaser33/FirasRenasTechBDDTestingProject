@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.247">
+<testcase classname="Guru99" name="Verify header" time="5.945">
+<system-out><![CDATA[When The user wants to verify header is "Mother Elephant With Babies Soft Toy".passed
+]]></system-out>
+</testcase>
+</testsuite>
